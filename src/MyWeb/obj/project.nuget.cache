@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Kmh76L0s+VU9do2cycvK/eCc75QlMBKQa1awcdtAf+Bb9By54opubvMyu1zFK1bKmK6gaaytGVXBwS4mFnM8A==",
+  "success": true,
+  "projectFilePath": "/Users/wk/Source/dotnet-docker-version/src/MyWeb/MyWeb.csproj",
+  "expectedPackageFiles": [
+    "/Users/wk/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/wk/.nuget/packages/microsoft.openapi/1.1.4/microsoft.openapi.1.1.4.nupkg.sha512",
+    "/Users/wk/.nuget/packages/swashbuckle.aspnetcore/5.5.1/swashbuckle.aspnetcore.5.5.1.nupkg.sha512",
+    "/Users/wk/.nuget/packages/swashbuckle.aspnetcore.swagger/5.5.1/swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "/Users/wk/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.5.1/swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "/Users/wk/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.5.1/swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
