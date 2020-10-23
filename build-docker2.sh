@@ -1,0 +1,1 @@
+docker build -t ddv -f docker/Dockerfile --build-arg NVERSION=3.3.3  .

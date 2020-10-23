@@ -2,6 +2,7 @@
 
 services:
   app:
+    image: ddv
     build:
       context: .
       dockerfile: docker/Dockerfile
